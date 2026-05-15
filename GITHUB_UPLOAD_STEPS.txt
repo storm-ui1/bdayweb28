@@ -1,0 +1,13 @@
+This is the GitHub-friendly copy of the birthday website.
+
+Upload this folder to GitHub:
+github-friendly-birthday-website
+
+Do not upload these folders from the old project:
+node_modules
+.next
+.git
+
+To run it later:
+npm install
+npm run dev
